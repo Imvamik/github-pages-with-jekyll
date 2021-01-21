@@ -1,4 +1,4 @@
-title: My Learning blog
+title: Learning blog
 author: Vamik
 email: mohd.vamik@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
  
 
 # social links
-twitter_username: learning.blog# DO NOT include the @ character, or else the build will fail!
-github_username:  github-page # DO NOT include the @ character, or else the build will fail!
+twitter_username: mohd-vamik # DO NOT include the @ character, or else the build will fail!
+github_username:  Imvamik # DO NOT include the @ character, or else the build will fail!
 theme: minima
 show_excerpts: true # set to false to remove excerpts on the homepage
